@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\universitate\Binary clock\Binary clock\bin\Debug\Binary clock.exe.config
+C:\Users\LENOVO\Desktop\universitate\Binary clock\Binary clock\bin\Debug\Binary clock.exe
+C:\Users\LENOVO\Desktop\universitate\Binary clock\Binary clock\bin\Debug\Binary clock.pdb
+C:\Users\LENOVO\Desktop\universitate\Binary clock\Binary clock\obj\Debug\Binary clock.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\universitate\Binary clock\Binary clock\obj\Debug\Binary clock.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\universitate\Binary clock\Binary clock\obj\Debug\Binary clock.exe
+C:\Users\LENOVO\Desktop\universitate\Binary clock\Binary clock\obj\Debug\Binary clock.pdb
