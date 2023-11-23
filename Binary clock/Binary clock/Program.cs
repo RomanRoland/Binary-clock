@@ -67,6 +67,7 @@ namespace Binary_clock
             foreach (string token in tokens)
             {
                 nr = int.Parse(token);
+                if (nr == 0) { i += 2; continue; }
                 while (nr != 0)
                 {
                     b[i] = nr % 10;
