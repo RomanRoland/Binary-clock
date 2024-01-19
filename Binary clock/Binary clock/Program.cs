@@ -68,6 +68,7 @@ namespace Binary_clock
             {
                 nr = int.Parse(token);
                 if (nr == 0) { i += 2; continue; }
+                if (nr < 10) { b[i] = nr; i+= 2; continue; }
                 while (nr != 0)
                 {
                     b[i] = nr % 10;
